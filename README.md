@@ -19,5 +19,11 @@ Registration:
 This page allows first time users to sign up. It also enables already existing users to login into their account.
 ![Registration](registration.png)
 
+
+User Account:
+
+Once a user logs into the profile he will be redirected to the home page. He can also create new post by clicking 'New Post'.
+![USerAccount](UserAccount.png)
+
                 
 
