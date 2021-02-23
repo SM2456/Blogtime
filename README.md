@@ -26,8 +26,8 @@ Once a user logs into the profile he will be redirected to the home page. He can
 ![USerAccount](UserAccount.png)
 
 ## New Post
-
 This page allows the user to add new posts.
+
 ![newpost](newpost.png)
 
 
