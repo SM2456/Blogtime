@@ -42,6 +42,10 @@ In this page the users can update or delete their post. They can also delete the
 
 
 
+The above application has been developed by understanding the concepts from the following source: https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+
+
+
 
 
 
