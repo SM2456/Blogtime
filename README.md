@@ -30,6 +30,12 @@ This page allows the user to add new posts.
 
 ![newpost](newpost.png)
 
+## Profile
+This is the profile page of the user where the user can update his username, email id as well as upate his profile picture.
+
+![profile](profile.png)
+
+
 
 
 
