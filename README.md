@@ -35,6 +35,12 @@ This is the profile page of the user where the user can update his username, ema
 
 ![profile](profile.png)
 
+## UserPost
+In this page the users can update or delete their post. They can also delete the comments of the post if they do not like it.
+
+![UserAccount](UserAccount.png)
+
+
 
 
 
