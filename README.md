@@ -10,6 +10,8 @@ Technology used:
 
 HOME:
 
-The home page of the blogging site shows the different posts that have been made by the users. It also shows how many comments each of the posts have acquired.
+The home page of the blogging site shows the different posts that have been made by the users. It also shows how many comments each of the posts have acquired once a post is selected.
 First-time users can register into the application. Already registered users can sign in into their account. It also shows the user the 'about' section of the blog.
+![HomePage](HomePage.png)   ![HomePage](Homepage_1.png)
+Home Page                
 
