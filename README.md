@@ -1,5 +1,5 @@
 # Blogtime
-Blog time is blogging application that allows user to register and post blogs and also allows registered users to comment on different blog posts. Users also has the priviledge to update or delete a blog post
+Blog time is blogging application that allows user to register and post blogs and also allows registered users to comment on different blog posts. Users also have the priviledge to update or delete a blog post
 and can delete any comments that they do not want to see underneath their posts.
 
 ## Technology used:
